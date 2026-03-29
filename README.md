@@ -73,18 +73,13 @@ Sample test:
 confanalyzer ./samples --deep
 ```
 
-## Example Output
+## Help
 
-```text
-[HIGH] /app/config.yaml:12: Hardcoded API key-like value
-    -> api_key: ABC***56
+![ConfAnalyzer help output](./assets/demo-help.png)
 
-[MEDIUM] /etc/app.conf:45: Hardcoded password-like value
-    -> password = sup***23
+## Demo
 
-Summary: HIGH: 1, MEDIUM: 1
-Risk Score: 9
-```
+![ConfAnalyzer scan demo](./assets/demo-scan.png)
 
 ## Notes
 
