@@ -16,3 +16,6 @@ confanalyzer = "confanalyzer.main:main"
 
 [tool.setuptools]
 packages = ["confanalyzer"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
