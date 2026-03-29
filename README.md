@@ -67,12 +67,6 @@ HTML report:
 confanalyzer /etc --html
 ```
 
-Sample test:
-
-```bash
-confanalyzer ./samples --deep
-```
-
 ## Help
 
 ![ConfAnalyzer help output](./assets/demo-help.png)
