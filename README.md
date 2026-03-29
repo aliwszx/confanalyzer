@@ -1,4 +1,6 @@
-
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)
 # ConfAnalyzer v1.0.2
 
 ConfAnalyzer is a lightweight and practical configuration analysis tool designed to identify likely security misconfigurations and exposed secrets in system and application config files.
